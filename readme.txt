@@ -1,3 +1,3 @@
 git is a version control system.
 git is free and powerfull.
-let's try it
+let's try it.
