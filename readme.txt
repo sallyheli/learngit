@@ -5,4 +5,5 @@ add newlines
 git has mutabe index called stage.
 First, git push to remote
 Add info to branch 
-Creating a new branch is quick and simple 
+Creating a new branch is quick and simple
+Merge with no off 
